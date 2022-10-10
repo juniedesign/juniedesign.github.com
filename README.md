@@ -1,2 +1,2 @@
-# juniedesign.github.com
+# juniedesign.ux
 This is about Junie's UX portfolio.
